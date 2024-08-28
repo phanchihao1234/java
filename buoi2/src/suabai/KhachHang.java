@@ -6,7 +6,7 @@ public class KhachHang {
     private String hoTen;
     private String CMND;
     private int thang;
-    private GoiDV dichvu;
+        private GoiDV dichvu;
     public KhachHang(){}
     public void nhap(){
         Scanner sc = new Scanner(System.in);
